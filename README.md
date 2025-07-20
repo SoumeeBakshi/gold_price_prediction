@@ -1,1 +1,3 @@
 # gold_price_prediction
+
+This project focuses on predicting gold prices using a Random Forest Regressor model. The dataset was analyzed and preprocessed using Python libraries such as Pandas and NumPy to gain insights and prepare it for training. Visualizations were created using Seaborn and Matplotlib to better understand the data distribution and feature relationships. The model was then trained using the Random Forest algorithm, and its performance was evaluated using standard regression metrics. The model achieved a high R-squared score of **0.9889**, indicating excellent predictive accuracy.
