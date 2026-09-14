@@ -1,0 +1,6 @@
+   AzureCLI.msi
+   full_requirements.txt
+   __pycache__/
+   *.pyc
+   .venv/
+   venv/ 
